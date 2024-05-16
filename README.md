@@ -9,4 +9,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=sonyadriko&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=pie"
+     media="(prefers-color-scheme: dark)"
+    />
+</picture>
