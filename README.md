@@ -2,7 +2,7 @@
 //[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=compact&theme=tokyonight)](https://github.com/sonyadriko/github-readme-stats)-->
 
 <h1 align="center">Hi 👋, I'm Sony</h1>
-<h3 align="center">A passionate web * android developer from Indonesia</h3>
+<h3 align="center">A passionate web & android developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Vue, go**
 
