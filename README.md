@@ -1,10 +1,6 @@
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonyadriko&show_icons=true&theme=tokyonight)
 //[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=compact&theme=tokyonight)](https://github.com/sonyadriko/github-readme-stats)-->
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20385
-Fork on GitHub6236
 <h1 align="center">Hi 👋, I'm Sony</h1>
 <h3 align="center">A passionate web * android developer from Indonesia</h3>
 
