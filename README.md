@@ -6,6 +6,11 @@
 
 - 🌱 I’m currently learning **React, Python, Laravel**
 
+## 📊 Language Usage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=compact&theme=tokyonight)
+
+
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>-->
