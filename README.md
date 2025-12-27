@@ -1,5 +1,5 @@
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonyadriko&show_icons=true&theme=tokyonight)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=compact&theme=tokyonight)](https://github.com/sonyadriko/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=compact&theme=tokyonight)](https://github.com/sonyadriko/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Sony</h1>
 <h3 align="center">A passionate web & android developer from Indonesia</h3>
@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **React, Python, Laravel**
 
 ## 📊 Language Usage
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyadriko&layout=compact&theme=tokyonight)
 
 
 <!--<h3 align="left">Connect with me:</h3>
