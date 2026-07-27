@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sony</h1>
 <h3 align="center">A passionate web & android developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React, Python, Laravel**
+🌱**mwehehehe**
 
 
 
